@@ -1,2 +1,0 @@
-# BTPIS
-BTP Integration Suite
